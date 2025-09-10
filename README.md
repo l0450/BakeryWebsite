@@ -19,3 +19,12 @@ the company, explaining what the bakery is known for and how
 long it has been in business. I made that using p as a
 paragraph and h as headings. Below the text, we can see 2 
 images presenting the owners, with a small description below.
+
+## Contact us page (contact.html) ##
+
+When the user decides to click the "Contact" button, there is an
+information presented on how and when to contact the company,
+Contact details are included as well. If a person wants to have
+face-to-face inquiry, at the bottom of the site, there is a map
+displayed with pointed locations where the bakery shops are 
+located.
