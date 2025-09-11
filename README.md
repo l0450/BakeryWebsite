@@ -35,5 +35,13 @@ purpose of showing how exactly the product looks. Below every image,
 there is a small text (non-functional button) describing the product.
 However, if a customer wants to buy 1 specific kind of product, he can 
 click 1 of 3 available buttons (Bread, Pastry, All) to find what is desired.
+
+## Basket page (basket.html) ##
+
+Last, but not least, the basket page is responsible for summarizing the
+customer's order. In the table, there is a summary of the products selected,
+the quantity, the price of the selected product, and the total price. After ensuring
+that the shopping list is correct, the user clicks the "Buy" button, and the message
+is displayed confirming that the order has been accepted.
 displayed with pointed locations where the bakery shops are 
 located.
