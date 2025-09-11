@@ -25,6 +25,15 @@ images presenting the owners, with a small description below.
 When the user decides to click the "Contact" button, there is an
 information presented on how and when to contact the company,
 Contact details are included as well. If a person wants to have
-face-to-face inquiry, at the bottom of the site, there is a map
+face-to-face inquiry, at the bottom of the site, there is a map.
+
+## Products page (products.html) ##
+
+The products page introduces the customers to the various range of
+products available to purchase. Multiple images are displayed for the
+purpose of showing how exactly the product looks. Below every image,
+there is a small text (non-functional button) describing the product.
+However, if a customer wants to buy 1 specific kind of product, he can 
+click 1 of 3 available buttons (Bread, Pastry, All) to find what is desired.
 displayed with pointed locations where the bakery shops are 
 located.
